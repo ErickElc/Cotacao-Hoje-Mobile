@@ -16,8 +16,8 @@ O usuário pode verificar a cotação do dólar, euro, libra, dolar Canadense, r
 
 ### Download
 
-Android: [Download]('') <br />
-IOS: [Download]('') <br />
+Android: [Download](https://drive.google.com/file/d/1Du6ze_Wkfoup_kiNz0ZjA9-a6AxAbEAv/view?usp=sharing) <br />
+IOS: [Em Breve]('') <br />
 
 
 ### 🛠 Tecnologias
