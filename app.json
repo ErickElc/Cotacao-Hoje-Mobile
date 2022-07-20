@@ -21,8 +21,10 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.erickelc.cotacaoHoje",
+      "versionCode": 1,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#FFFFFF"
       }
     },
